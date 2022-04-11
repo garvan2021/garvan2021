@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 This is a github account joined at 2021,  
 I'm Garvan, nothing more...
