@@ -1,7 +1,7 @@
 ### Hi there
 
-This is a github account joined at 2021,  
-I'm Garvan, nothing more...
+I'm Garvan,  
+I created this github account at 2021.  
 
 <!--
 **garvan2021/garvan2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
