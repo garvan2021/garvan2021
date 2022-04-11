@@ -2,10 +2,13 @@
 
 I'm Garvan,  
 I created this github account at 2021.  
+Hope enjoy with you. ⚡
 
-- status: Developer
-- skill: Python/Linux
-- love: fun
+- My status: Developer
+- My skill: 
+  - Python
+  - Linux
+- My love: fun
 
 <!--
 **garvan2021/garvan2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
