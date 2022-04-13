@@ -5,7 +5,7 @@ I created this github account at 2021.
 Hope enjoy with you. ⚡
 
 - My status: Developer
-- My skill: 
+- My skills: 
   - Python
   - Linux
 - My love: fun
