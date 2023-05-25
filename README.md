@@ -10,7 +10,7 @@ Hope enjoy with you. ⚡
   - Linux
 - My love: fun
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvan2021)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvan2021&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Garvan2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=garvan2021)](https://github.com/anuraghazra/github-readme-stats)
 
