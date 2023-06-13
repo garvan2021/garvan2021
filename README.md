@@ -7,6 +7,7 @@ Hope enjoy with you. ⚡
 - My status: Developer
 - My skills: 
   - Python
+  - Javascript
   - Linux
 - My love: fun
 
