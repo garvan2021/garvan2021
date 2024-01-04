@@ -7,7 +7,7 @@ Hope enjoy with you. ⚡
 - My status: Developer
 - My skills: 
   - Python
-  - OCR Deep Learning
+  - OCR AI
   - Typescript
   - Linux
 - My love: fun
