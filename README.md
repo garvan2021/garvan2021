@@ -8,7 +8,6 @@ Hope enjoy with you. ⚡
 - My skills: 
   - Python AI
   - Typescript
-  - Linux
 - My love: fun
 
 ## Analyze
